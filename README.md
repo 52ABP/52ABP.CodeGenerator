@@ -10,6 +10,7 @@
 > 欢迎您使用 ABP Code Generator ，重新开发的代码生成器，[支持.net framework和.net](http://xn--framework-yw9o.net/) core 双版本。
 开发代码生成器的初衷是为了让大家专注于业务开发，而基础设施的地方，由代码生成器实现，节约大家的实现。实现提高效率、共赢的局面。 欢迎到：[https://github.com/52ABP/52ABP.CodeGenerator](https://github.com/52ABP/52ABP.CodeGenerator) 提供您的脑洞，如果合理的我会实现哦~
 
+下载地址： https://marketplace.visualstudio.com/items?itemName=werltm.52ABPCodeGenerator
 
 # 说正事
 
